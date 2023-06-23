@@ -10,7 +10,4 @@ AdBinay/AdBinay is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
   
-![image](https://github.com/AdBinay/AdBinay/assets/132814477/0f4078c5-a031-4e14-a497-8d46db070d64)  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/aa7d36e2-f3c4-43e0-8c3b-baaaab8d5049)  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/bea9970c-1561-4fc9-b71a-888b739e2bf9)
-
-
-
+![image](https://github.com/AdBinay/AdBinay/assets/132814477/0f4078c5-a031-4e14-a497-8d46db070d64)  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/aa7d36e2-f3c4-43e0-8c3b-baaaab8d5049)  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/bf6c1a86-1b20-4923-b136-bd2856870d50)
