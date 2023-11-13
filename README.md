@@ -1,3 +1,4 @@
+![logo](https://github.com/AdBinay/AdBinay/blob/main/Arowwai%20industries.gif)
 <h1 align="center">Hi 👋, I'm Binay Adhikari</h1>
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif" alt="coding" align="right">
