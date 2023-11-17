@@ -44,5 +44,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adbinay&" alt="adbinay" /></p>
 
 
- 
+ <img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" />
 
