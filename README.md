@@ -12,7 +12,7 @@
 
 - 👯 I’m working on **Frontend web development**
 
-- 👨‍💻 All of my projects are available at [portfolio-eta-rouge.vercel.app](portfolio-eta-rouge.vercel.app)
+- 👨‍💻 All of my projects are available at [https://binayadhikari.netlify.app/](https://binayadhikari.netlify.app/)
 
 - 📝 I regularly write articles on [https://twitter.com/MeBinay_77](https://twitter.com/MeBinay_77)
 
