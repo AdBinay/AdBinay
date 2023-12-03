@@ -1,5 +1,5 @@
 ![logo](https://github.com/AdBinay/AdBinay/blob/main/Arowwai%20industries.gif)
-<h1 align="center">Hi 👋 <br> I'm Binay Adhikari</h1>
+<h1 align="center" color="Blue">Hi 👋 <br> I'm Binay Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 <img align="center" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47makf5ihvj7y20mnsn3zbsykpb2hyk9umubm81e6d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
@@ -7,8 +7,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mebinay_77" target="blank"><img src="https://img.shields.io/twitter/follow/mebinay_77?logo=twitter&style=for-the-badge" alt="mebinay_77" /></a> </p>
-[![Github](https://custom-icon-badges.herokuapp.com/github/followers/AdBinay?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/AdBinay)
-[![Twitter Follow](https://img.shields.io/twitter/follow/AdBinay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdBinay&screen_name=Binay)
 
 
 - 🌱 I’m currently learning **Frontend development**
