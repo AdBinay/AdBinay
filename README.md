@@ -1,6 +1,7 @@
 ![logo](https://github.com/AdBinay/AdBinay/blob/main/Arowwai%20industries.gif)
 <h1 align="center">Hi 👋 I'm  <br> Binay Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
+ <img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" />
 <img align="center" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47makf5ihvj7y20mnsn3zbsykpb2hyk9umubm81e6d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 
@@ -45,5 +46,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adbinay&" alt="adbinay" /></p>
 
 
- <img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" />
+
 
