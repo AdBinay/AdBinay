@@ -7,6 +7,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mebinay_77" target="blank"><img src="https://img.shields.io/twitter/follow/mebinay_77?logo=twitter&style=for-the-badge" alt="mebinay_77" /></a> </p>
+[![Github](https://custom-icon-badges.herokuapp.com/github/followers/AdBinay?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white)](https://github.com/AdBinay)
+[![Twitter Follow](https://img.shields.io/twitter/follow/AdBinay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAdBinay&screen_name=Binay)
+
 
 - 🌱 I’m currently learning **Frontend development**
 
