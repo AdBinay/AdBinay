@@ -44,7 +44,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adbinay&show_icons=true&locale=en" alt="adbinay" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adbinay&" alt="adbinay" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdBinay&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&card_width=537)](https://git.io/streak-stats)
 
 
 
