@@ -1,7 +1,8 @@
 ![logo](https://github.com/AdBinay/AdBinay/blob/main/Arowwai%20industries.gif)
 <h1 align="center">Hi 👋 I'm  <br> Binay Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
-<div style="width:100%;height:0;padding-bottom:126%;position:relative;"><iframe src="https://giphy.com/embed/lP8xu5t2DLGG045H8F" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/hacktiv8-code-programming-programmer-lP8xu5t2DLGG045H8F">via GIPHY</a></p>
+
+<img align="center" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47makf5ihvj7y20mnsn3zbsykpb2hyk9umubm81e6d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" >
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
