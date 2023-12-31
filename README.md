@@ -59,13 +59,10 @@
 
 
 
-<div id="stat" align="center">
-  <div id="info">
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdBinay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+    
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adbinay&show_icons=true&locale=en&theme=vision-friendly-dark" alt="adbinay" /></p>
-  </div>
-  <p> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
-</div>
+  
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdBinay&theme=radical&border_radius=1.5&date_format=M%20j%5B%2C%20Y%5D&card_width=537)](https://git.io/streak-stats)
