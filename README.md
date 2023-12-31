@@ -59,9 +59,9 @@
 
 
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdBinay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdBinay&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
     
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adbinay&show_icons=true&locale=en&theme=vision-friendly-dark" alt="adbinay" /></p>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adbinay&show_icons=true&locale=en&theme=vision-friendly-dark" alt="adbinay" /></p>
   
 
 
