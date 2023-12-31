@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋 I'm  <br> Binay Adhikari</h1>
 <h3 align="center">A passionate developer from Nepal.</h3>
 
-<img align="center" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e47makf5ihvj7y20mnsn3zbsykpb2hyk9umubm81e6d&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="coding" >
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
