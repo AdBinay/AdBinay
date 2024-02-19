@@ -24,11 +24,11 @@
 </p>
 
 <!-- ![Snake animation](https://github.com/AdBinay/AdBinay/blob/output/github-contribution-grid-snake.svg) -->
-<img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
+
 
 <h3 align="left">Languages and Tools:</h3>
 
-![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=15) 
+![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
 
 
 ### 👨‍💻 I love listening to Music on my sphere time. 🎶
@@ -44,8 +44,9 @@
 
 
 
-### 👨 My Github Activity
+<div align="center">
 
+### 👨 My Github Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdBinay&theme=algolia&hide_border=true" width="700"/>
 
@@ -55,25 +56,22 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdBinay&theme=github_dark&utcOffset=8)
 
+</div>
+
+
 
 <hr>
 
 
 ### 📊 Some More Details
-
-
-
-
-
-  <summary>🏆 My Github Trophies</summary>
-
+<summary>🏆 My Github Trophies</summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
+
+<img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
 <hr>
-
-
 If you wish to contact me please shoot a mail at  [binayadh77@gmail.com](mailto:binayadh77@gmail.com)
 
 
-![](bottom_header.svg)
+![](assets/bottom_header.svg)
 
