@@ -55,7 +55,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: Balastrong/chess-stats-action@master
         with:
-          CHESS_USERNAME: Bina0
+          CHESS_USERNAME: <Bina0>
 <!--END_SECTION:chessStats-->
 
 
