@@ -35,10 +35,9 @@
 </p>
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-  <img src="f" width="700"/>
 </p>
 <p align="center">
-    <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF"  src=" https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="300" height="150px" /></a>
+    <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="300" height="150px" /></a>
 </p>
 <div align="center">
 
