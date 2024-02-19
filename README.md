@@ -31,7 +31,7 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
 
 
-### 👨‍💻 I love listening to Music on my sphere time. 🎶
+### 👨‍💻 I love listening to Music and play chess on my sphere time. 🎶
 
 <p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
@@ -39,6 +39,24 @@
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
+<!--START_SECTION:chessStats-->
+name: Chess Stats Action
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update readme with your chess stats and games
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Balastrong/chess-stats-action@master
+        with:
+          CHESS_USERNAME: <Your chess.com Bina0>
+<!--END_SECTION:chessStats-->
 
 
 
