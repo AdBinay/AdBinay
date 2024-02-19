@@ -23,9 +23,6 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 </p>
 
-![Snake animation](https://github.com/AdBinay/AdBinay/blob/output/github-contribution-grid-snake.svg) 
-
-
 <h3 align="left">Languages and Tools:</h3>
 
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
