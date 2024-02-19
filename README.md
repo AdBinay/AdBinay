@@ -35,7 +35,7 @@
 </p>
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/69e90a87-1196-4c6c-80c4-3ca7c11a7501)
+  ![](chess.gif)
 
 </p>
 <!--START_SECTION:chessStats-->
