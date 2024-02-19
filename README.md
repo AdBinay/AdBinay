@@ -36,9 +36,8 @@
 <p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 </p>
-
 <p align="center">
-  <iframe style="border-radius:12px" src="https://open.spotify.com/embed/artist/7L463cv1boHIHSwm8aWebX?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
 
 
