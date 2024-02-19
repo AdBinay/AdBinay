@@ -73,5 +73,5 @@
 If you wish to contact me please shoot a mail at  [binayadh77@gmail.com](mailto:binayadh77@gmail.com)
 
 
-![](assets/bottom_header.svg)
+![](bottom_header.svg)
 
