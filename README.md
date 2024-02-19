@@ -34,7 +34,7 @@
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 </p>
 <p align="center">
-  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" style="margin-right: '20px';" /></a>
+  <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right= "20px" /></a>
   <a href="https://www.chess.com/member/bina0" target="_blank"><img alt="GIF" src="https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="300" height="300px" /></a>
 </p>
 
