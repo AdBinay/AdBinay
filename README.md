@@ -62,9 +62,10 @@
 
 <summary>🏆 My Github Trophies</summary>
 
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
 
-<img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
+<img align="center" src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
 <hr>
 If you wish to contact me please shoot a mail at  [BinayAdhikari](mailto:binayadh77@gmail.com)
 
