@@ -35,7 +35,10 @@
 </p>
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-  <img src=" https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="700"/>
+  <img src="f" width="700"/>
+</p>
+<p align="center">
+    <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF"  src=" https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="300" height="150px" /></a>
 </p>
 <div align="center">
 
@@ -57,14 +60,14 @@
 
 
 ### 📊 Some More Details
+
 <summary>🏆 My Github Trophies</summary>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
 
 <img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
 <hr>
-If you wish to contact me please shoot a mail at  [binayadh77@gmail.com](mailto:binayadh77@gmail.com)
-
+If you wish to contact me please shoot a mail at  [BinayAdhikari](mailto:binayadh77@gmail.com)
 
 ![](bottom_header.svg)
 
