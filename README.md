@@ -35,31 +35,8 @@
 </p>
 <p align="center">
   <a href="https://open.spotify.com/user/4565rgt2oayij56wax0pq41e1" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
-  ![image](https://github.com/AdBinay/AdBinay/assets/132814477/e72daba0-8ef9-445b-975f-0cb3d932d2f9)
-
+  <img src=" https://images.chesscomfiles.com/uploads/v1/images_users/tiny_mce/SamCopeland/phpuTejFE.gif" width="700"/>
 </p>
-<!--START_SECTION:chessStats-->
-name: Chess Stats Action
-
-on:
-  schedule:
-    - cron: '0 0 * * *' # Runs at 00:00 UTC every day
-  workflow_dispatch:
-
-jobs:
-  update-readme:
-    name: Update readme with your chess stats and games
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Balastrong/chess-stats-action@master
-        with:
-          CHESS_USERNAME: <Bina0>
-<!--END_SECTION:chessStats-->
-
-
-
-
 <div align="center">
 
 ### 👨 My Github Activity
