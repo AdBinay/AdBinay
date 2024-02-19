@@ -30,7 +30,7 @@
 
 ### 👨‍💻 I love listening to Music and play chess on my sphere time. 🎶
 
-<p align="left">
+<p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 </p>
 <p align="center">
