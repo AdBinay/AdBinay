@@ -40,10 +40,6 @@
 </p>
 
 
-
-
-
-
 <div align="center">
 
 ### 👨 My Github Activity
