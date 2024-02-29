@@ -34,7 +34,12 @@
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" margin-L src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
   <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF" height="150px" width="150px" src="chess.gif" /></a>
 </p>
-[![Games Played](https://img.shields.io/badge/Chess.com-Games%20Played-6487-blue?logo=chess)](https://www.chess.com/member/bina0)
+[![Chess.com Profile](https://www.chess.com/favicon.ico)](https://www.chess.com/member/bina0)
+<details>
+  <summary>Games Played</summary>
+
+  ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+</details>
 <p align="center">
   <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
