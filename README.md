@@ -35,8 +35,7 @@
   <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF" height="150px" width="150px" src="chess.gif" /></a>
 </p>
 <details>
-  <summary>Games Played</summary>
-
+  <p>Games Played</p>
   ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
 </details>
 <p align="center">
