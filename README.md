@@ -32,7 +32,7 @@
 
 <p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
-  <a href="https://www.chess.com/member/bina0" target="_blank"><img src="https://www.chess.com/favicon.ico" height="150px" /></a>
+    <a href="https://www.chess.com/member/bina0" target="_blank"><img src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/chess.gif" height="150px" width="150px" /></a>
 </p>
 <p align="center">
   <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right="200px" /></a>
