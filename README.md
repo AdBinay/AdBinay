@@ -40,7 +40,12 @@
 </p>
 
 [![Chess.com Profile](https://www.chess.com/favicon.ico)](https://www.chess.com/member/bina0)
-![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+<details>
+  <summary>Games Played</summary>
+
+  ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+</details>
+
 
 
 
