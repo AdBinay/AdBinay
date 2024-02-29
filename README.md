@@ -41,9 +41,6 @@
 </p>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-<p align="center">
   <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
 </p>
 
