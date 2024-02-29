@@ -31,14 +31,12 @@
 ### 👨‍💻 I love listening to Music and play chess on my spare time. 🎶
 
 <p align="center">
-    <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
+    <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" margin-L src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
   <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF" height="150px" width="150px" src="chess.gif" /></a>
 </p>
 <p align="center">
-  <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right="200px" /></a>
-  <summary>Games Played</summary>
+  <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
   ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
-</details>
 </p>
 
 
