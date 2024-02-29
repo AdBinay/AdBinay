@@ -37,7 +37,11 @@
 <p align="center">
   <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right="200px" /></a>  
 </p>
-![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+[![Chess.com Profile](https://www.chess.com/favicon.ico)](https://www.chess.com/member/bina0)
+<details>
+  <summary>Games Played</summary>
+  ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+</details>
 
 
 
