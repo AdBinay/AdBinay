@@ -28,17 +28,19 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
 
 
-### 👨‍💻 I love listening to Music and play chess on my sphere time. 🎶
+### 👨‍💻 I love listening to Music and play chess on my spare time. 🎶
 
 <p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
 </p>
 <p align="center">
-  <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right= "200px" /></a>
+  <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" margin-right="200px" /></a>
+  <a href="https://www.chess.com/member/bina0" target="_blank"><img src="https://www.chess.com/favicon.ico" height="150px" /></a>
 </p>
 
 [![Chess.com Profile](https://www.chess.com/favicon.ico)](https://www.chess.com/member/bina0)
 ![Games Played](https://img.shields.io/badge/Games%20Played-6487-blue)
+
 
 
 
