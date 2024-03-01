@@ -1,10 +1,10 @@
 <h3 align="center">
-  Welcome to Binay Adhikari's profile!
+  Welcome to Binay Adhikari's profile!!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/AdBinay"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+full-stack+Developer.;Tech+enthusiast.;Student+of+Computer+Science+and+IT.;"></a>
+  <a href="https://github.com/AdBinay"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+full-stack+Developer.;Tech+enthusiast.;Student+of+Computer+Science+and+Information+Technology.;"></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/MeBinay_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binayadhikari" height="30" width="40" /></a>
