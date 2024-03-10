@@ -6,15 +6,19 @@
 <p align="center">
   <a href="https://github.com/AdBinay"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=A+full-stack+Developer.;Tech+enthusiast.;Student+of+Computer+Science+&+Information+Technology.;"></a>
 </p>
+
 <p align="center">
   <a href="https://twitter.com/MeBinay_77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binayadhikari" height="30" width="40" /></a>
+  
 <a href="https://www.linkedin.com/in/binay-adhikari-6846571b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binayadhikari" height="30" width="40" /></a>
+
 <a href="https://www.facebook.com/binay.ad.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binayadhikari" height="30" width="40" /></a>
 <a href="https://www.instagram.com/binayadh77/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binayadhikari" height="30" width="40" /></a>
 </p>
 <p align="center">
   <a href="https://twitter.com/MeBinay_77">
-    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/follow/MeBinay_77?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
+    <img alt="followers" title="Follow me on Twitter" src="https://custom-icon-badges.herokuapp.com/twitter/followers/MeBinay_77?color=236ad3&labelColor=1da1f2&label=Follow&logo=twitter-outline&logoColor=white&style=for-the-badge"/></a>
+  
   <a href="https://github.com/AdBinay">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AdBinay?color=333333&labelColor=111111&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
     <a href="https://twitter.com/MeBinay_77">
