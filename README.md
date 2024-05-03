@@ -27,7 +27,7 @@
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
 
 
-### 👨‍💻 I love listening to Music and play chess on my spare time.. 🎶
+### 👨‍💻 I love listening to Music and play chess on my spare time...🎶
 
 <p align="center">
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" margin-L src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
