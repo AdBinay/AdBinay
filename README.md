@@ -66,7 +66,8 @@
 
 ## Wakatime Stats
 <p><img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/8638958d-f36c-498f-9a75-58bb69f62925.svg" height="320" width="420">
-<img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/ccb23e51-f850-4e4f-b495-ae9f717ecf0d.svg" height="320" width="420">
+<img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/9e540dcc-e32c-4371-bac6-30a951a84661.svg" height="320" width="420">
+  
 </p>
 
 <img  src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
