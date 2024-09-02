@@ -50,7 +50,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AdBinay&theme=github_dark&utcOffset=8)
-
+<figure><embed src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/d8eda365-e4ae-4b0f-872f-33c9cc1ada0f.svg"></embed></figure>
 </div>
 
 
