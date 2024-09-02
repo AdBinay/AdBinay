@@ -44,7 +44,7 @@
 ### 👨 My Github Activity
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdBinay&theme=algolia&hide_border=true" width="700"/>
-![](https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/8638958d-f36c-498f-9a75-58bb69f62925.svg)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AdBinay&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AdBinay&theme=github_dark)
