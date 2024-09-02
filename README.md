@@ -65,7 +65,7 @@
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdBinay" alt="adbinay" /></a> </p>
 
 ## Wakatime Stats
-<p><img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/8638958d-f36c-498f-9a75-58bb69f62925.svg" height="320" width="420">
+<p><img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/81e5fe4e-4a12-4e2a-a3e1-82f4bf20b2dc.svg" height="320" width="420">
 <img src="https://wakatime.com/share/@7f95f4cd-9167-4de0-ab15-da199a0261c7/9e540dcc-e32c-4371-bac6-30a951a84661.svg" height="320" width="420">
   
 </p>
