@@ -62,7 +62,7 @@
 
 <p>🏆 My Github Trophies</p> 
 
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adbinay" alt="adbinay" /></a> </p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AdBinay" alt="adbinay" /></a> </p>
 
 <img  src="https://raw.githubusercontent.com/AdBinay/AdBinay/output/snake.svg" alt="Snake animation" /> 
 <hr>
