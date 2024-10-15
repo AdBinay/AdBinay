@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Binay Adhikari's profile...!
+  Welcome to Binay Adhikari's profile.!
 </h3>
 
 <p align="center">
