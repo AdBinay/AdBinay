@@ -30,9 +30,9 @@
     <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img  alt="GIF" height="150px" margin-L   src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" /></a>
   <a href="https://www.chess.com/member/bina0" target="_blank"><img  alt="GIF" height="130px" width="130px" src="chess.gif" /></a>
 </p>
-<!-- <p align="center">
+<p align="center">
     <img src="https://img.shields.io/badge/Games%20Played-6487-blue" alt="Games Played" />
-</p> -->
+</p>
 
 <p align="center">
   <a href="https://open.spotify.com/user/31e3fbrl3vx44htpj4td4cqbmoha" target="_blank"><img src="https://spotify.bikram.io/api?theme=dark&rainbow=true" /></a>
