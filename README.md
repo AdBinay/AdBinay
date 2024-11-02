@@ -1,5 +1,5 @@
 <h3 align="center">
-  Welcome to Binay Adhikari's profile.
+  Welcome to Binay Adhikari's profile..
 </h3>
 
 <p align="center">
@@ -19,7 +19,7 @@
     <p align="center"> <img src="https://komarev.com/ghpvc/?username=adbinay&label=Profile%20views&color=0e75b6&style=flat" alt="adbinay" /> </p>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools : </h3>
 
 ![](https://skillicons.dev/icons?i=html,css,javascript,typescript,azure,bots,mysql,mongodb,java,git,github,python,django,c,dotnet,r,netlify,postgres,postman,react,vscode,vercel,ruby,workers&perline=20) 
 
